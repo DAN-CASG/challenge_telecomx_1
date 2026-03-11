@@ -1,4 +1,4 @@
-# Telecom X – Análisis de Evasión de Clientes (Churn)
+# Telecom X – Análisis de Evasión de Clientes (Churn) - PARTE 1
 
 ## Resumen del Proyecto
 
